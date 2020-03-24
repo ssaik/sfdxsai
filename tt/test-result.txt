@@ -1,0 +1,32 @@
+=== [94mTest Reports[39m
+FORMAT  FILE
+──────  ────────────────────────────────────────
+txt     tt\test-result.txt
+junit   tt\test-result-7072F00001NqDbF-junit.xml
+json    tt\test-result-7072F00001NqDbF.json
+
+=== [94mTest Results[39m
+TEST NAME          OUTCOME  MESSAGE  RUNTIME (MS)
+─────────────────  ───────  ───────  ────────────
+testapex_test.tt1  [32mPass[39m              31
+
+=== [94mTest Summary[39m
+NAME                 VALUE
+───────────────────  ───────────────────────────────────────────────────────
+Outcome              Passed
+Tests Ran            1
+Passing              1
+Failing              0
+Skipped              0
+Pass Rate            100%
+Fail Rate            0%
+Test Start Time      Mar 23, 2020 3:54 PM
+Test Execution Time  31 ms
+Test Total Time      31 ms
+Command Time         651 ms
+Hostname             https://site-drive-1928-dev-ed.cs91.my.salesforce.com/
+Org Id               00D2F000000Dli0UAC
+Username             test-8bn6pch7pzci@example.com
+Test Run Id          7072F00001NqDbF
+User Id              0052F000005IEH1QAO
+

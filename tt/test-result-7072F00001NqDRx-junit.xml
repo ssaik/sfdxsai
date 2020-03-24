@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2020-03-23T15:50:06-05:00" hostname="https://site-drive-1928-dev-ed.cs91.my.salesforce.com/" tests="1" failures="0"  errors="0"  time="0.05">
+        <properties>
+            <property name="outcome" value="Passed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="1"/>
+            <property name="failing" value="0"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="100%"/>
+            <property name="failRate" value="0%"/>
+            <property name="testStartTime" value="Mar 23, 2020 3:50 PM"/>
+            <property name="testExecutionTime" value="0.05 s"/>
+            <property name="testTotalTime" value="0.05 s"/>
+            <property name="commandTime" value="0.78 s"/>
+            <property name="hostname" value="https://site-drive-1928-dev-ed.cs91.my.salesforce.com/"/>
+            <property name="orgId" value="00D2F000000Dli0UAC"/>
+            <property name="username" value="test-8bn6pch7pzci@example.com"/>
+            <property name="testRunId" value="7072F00001NqDRx"/>
+            <property name="userId" value="0052F000005IEH1QAO"/>
+        </properties>
+        <testcase name="tt1" classname="testapex_test" time="0.05">
+        </testcase>
+    </testsuite>
+</testsuites>
